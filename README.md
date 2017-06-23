@@ -5,7 +5,7 @@
 
 - Install [GitHub Desktop](https://desktop.github.com/) and create a GitHub account if you don't already have one.
 
-- On the [GitHub page for this repo](https://github.com/stevemclaugh/pennsound-metadata), click "Clone or download," then "Open in Desktop" to clone the repo to your local system.
+- On the [GitHub page for this repo](https://github.com/stevemclaugh/pennsound-metadata), click `Clone or download,` then `Open in Desktop` to clone the repo to your local system.
 
 - Open `PennSound_metadata.csv` in LibreOffice and make sure your CSV settings match these:
 
