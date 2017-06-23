@@ -17,4 +17,4 @@
 
 <img src="img/isPartOf_example.png" width="900">
 
-- Save your progress in LibreOffice. When you're finished, open *GitHub Desktop* and click `X Uncommitted Changes` at the top of the window. Enter a brief note in the `Summary` box, then click `Commit to master`. Finally, click `Sync` at the upper right to upload your changes to GitHub.
+- Save your progress in LibreOffice. When you're finished, open **GitHub Desktop** and click `X Uncommitted Changes` at the top of the window. Enter a brief note in the `Summary` box, then click `Commit to master`. Finally, click `Sync` at the upper right to upload your changes to GitHub.
