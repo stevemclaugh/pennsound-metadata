@@ -9,7 +9,7 @@
 
 - Open `PennSound_metadata.csv` in LibreOffice and make sure your CSV settings match these:
 
-<img src="img/LibreOffice_settings.png" width="550">
+<img src="img/LibreOffice_settings.png" width="500">
 
 - For convenience, select `View > Freeze Cells > Freeze First Row` to freeze the header row at the top of the window. Then select `Tools > Automatic Spell Checking` to turn off those wavy red underlines.
 
