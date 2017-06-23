@@ -1,4 +1,4 @@
-## PennSound Metadata
+## PennSound Metadata Setup
 
 
 - Install [LibreOffice](https://www.libreoffice.org/).
@@ -9,12 +9,12 @@
 
 - Open `PennSound_metadata.csv` in LibreOffice and make sure your CSV settings match these:
 
-<img src="img/LibreOffice_settings.png" width="600">
+<img src="img/LibreOffice_settings.png" width="550">
 
 - For convenience, select `View > Freeze Cells > Freeze First Row` to freeze the header row at the top of the window. Then select `Tools > Automatic Spell Checking` to turn off those wavy red underlines.
 
-- Here's an example of some correctly labeled `isPartOf` relationships. Note that the complete reading at the bottom is marked `None`, meaning it does not appeaer to be excerpted from any other file.
+- Here's an example of some correctly labeled `isPartOf` relationships. Note that the complete reading at the bottom is marked `None`, meaning it does not appear to be excerpted from any other file.
 
 <img src="img/isPartOf_example.png" width="900">
 
-- Save your progress in LibreOffice. When you're finished, open GitHub Desktop and click `[X] Uncommitted Changes` at the top of the window. Enter a brief note in the `Summary` window, then click `Commit to master`. Finally, click `Sync` on the upper right to upload your changes to GitHub.
+- Save your progress in LibreOffice. When you're finished, open *GitHub Desktop* and click `X Uncommitted Changes` at the top of the window. Enter a brief note in the `Summary` box, then click `Commit to master`. Finally, click `Sync` at the upper right to upload your changes to GitHub.
