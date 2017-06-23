@@ -13,7 +13,7 @@
 
 - For convenience, select `View > Freeze Cells > Freeze First Row` to freeze the header row at the top of the window. Then select `Tools > Automatic Spell Checking` to turn off those wavy red underlines.
 
-- Here's an example of some correctly labeled `isPartOf` relationships. Note that the complete reading at the bottom is marked `None`, meaning it does not appear to be excerpted from any other file.
+- Here's an example of correctly labeled `isPartOf` relationships. Note that the complete reading at the bottom is marked `None`, meaning it does not appear to be excerpted from any other file.
 
 <img src="img/isPartOf_example.png" width="900">
 
