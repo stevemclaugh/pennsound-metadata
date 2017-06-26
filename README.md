@@ -9,14 +9,14 @@
 
 - Open `PennSound_metadata.csv` in LibreOffice and make sure your CSV import settings match these:
 
-<img src="img/LibreOffice_settings.png" width="500">
+<img src="img/LibreOffice_settings.png" width="480">
 
 
 
-- Click the far upper left corner of the spreadsheet to highlight all cells. 
+- Click the far upper left corner of the spreadsheet to highlight all cells.
 - Right click the bar above the first row, then choose the `Column Width...` menu. Check `Default value` (0.89") to reduce the width of every column.
 
-<img src="img/column_width.png" width="500">
+<img src="img/column_width.png" width="520">
 
 - For convenience, select `View > Freeze Cells > Freeze First Row` to freeze the header row at the top of the spreadsheet. Then select `Tools > Automatic Spell Checking` to turn off those wavy red underlines.
 - Here's an example of correctly labeled `isPartOf` relationships. Note that the complete reading at the bottom is marked `None`, meaning it does not appear to be excerpted from any other file.
@@ -30,6 +30,7 @@
 Current fields:
 
 - filename
+- duration
 - isPartOf_confirmed
 - isPartOf_strong_guess
 - isPartOf_weak_guess
