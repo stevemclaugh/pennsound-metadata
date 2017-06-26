@@ -34,6 +34,7 @@ Current fields:
 - filename
 - duration
 - isPartOf_confirmed
+- isPartOf_Steve
 - isPartOf_strong_guess
 - isPartOf_weak_guess
 - id3_track_no
