@@ -7,6 +7,8 @@
 
 - On the [GitHub page for this repo](https://github.com/stevemclaugh/pennsound-metadata), click `Clone or download,` then `Open in Desktop` to clone the repo to your local system.
 
+<img src="img/github_clone.png" width="500">
+
 - Open `PennSound_metadata.csv` in LibreOffice and make sure your CSV import settings match these:
 
 <img src="img/LibreOffice_settings.png" width="480">
