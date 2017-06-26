@@ -1,7 +1,7 @@
 ## PennSound Metadata Setup
 
 
-- Install [LibreOffice](https://www.libreoffice.org/). (Editing this CSV table with Excel will mangle the file.)
+- Install [LibreOffice](https://www.libreoffice.org/). (Editing this CSV with Excel will mangle the file.)
 
 - Install [GitHub Desktop](https://desktop.github.com/) and create a GitHub account if you don't already have one.
 
