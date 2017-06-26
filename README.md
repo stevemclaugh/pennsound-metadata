@@ -50,7 +50,7 @@ Current fields:
 - ide_release_date*
 - id3_track_no_pair
 - id3_version
-- processing_error
+- processing_error*
 - url
 
 \*blank for most files
